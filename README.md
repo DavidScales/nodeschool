@@ -1,2 +1,2 @@
 # nodeschool
-learning Node.js exericses
+learning Node.js exercises
